@@ -5,7 +5,7 @@ import mysql.connector
 from pathlib import Path
 
 # SQLite Database Path
-DB_PATH = Path('baaak.db')
+DB_PATH = Path('FECrawler.db')
 
 
 def init_db():
