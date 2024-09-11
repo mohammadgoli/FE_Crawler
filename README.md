@@ -1,13 +1,7 @@
 # FE_Crawler
 Envato and Freepik General Information Crawler
 
-##########################################
-########		FE Crawler		    ######
-########  Developer: Mohammad Goli  ######
-########		 2024. Ver 1 		######
-##########################################
-
-
+###########################
 Please consider these steps to run the project: 
 
 1. Unzip the whole project pack in a folder/directory
